@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, My name is Viktor.
 
-<!--
-**QmBo/qmbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### In this account you find a demonstration projects of Java Developer.
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-gray?style=for-the-badge&logo=Spring)
+![Postgres](https://img.shields.io/badge/Postgres-gray?style=for-the-badge&logo=Postgresql)
+![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=Kubernetes)
+![Kafka](https://img.shields.io/badge/Kafka-gray?style=for-the-badge&logo=ApacheKafka)
+
+### Favorites
+* [A microservice based on the Spring Framework and us Kafka as messages broker.  Using for deployment Docker Compose or Kubernetes.](QmBo/passport-server)
