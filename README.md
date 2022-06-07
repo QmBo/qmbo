@@ -4,6 +4,18 @@
 
 ## Languages and Tools
 
+<img src="https://github.com/QmBo/QmBo/images/java.png" width="64" height="64" alt="Java">
+<img src="https://github.com/QmBo/QmBo/images/spring.png" width="64" height="64" alt="Spring">
+<img src="https://github.com/QmBo/QmBo/images/maven.png" width="64" height="64" alt="Maven">
+<img src="https://github.com/QmBo/QmBo/images/gradle.png" width="64" height="64" alt="Gradle">
+<img src="https://github.com/QmBo/QmBo/images/postgresql.png" width="64" height="64" alt="PostgreSQL">
+<img src="https://github.com/QmBo/QmBo/images/TravisCI.png" width="64" height="64" alt="TravisCI">
+<img src="https://github.com/QmBo/QmBo/images/docker.png" width="64" height="64" alt="Docker">
+<img src="https://github.com/QmBo/QmBo/images/kubernetes.png" width="64" height="64" alt="Kubernetes">
+<img src="https://github.com/QmBo/QmBo/images/kafca.png" width="64" height="64" alt="Kafka">
+<img src="https://github.com/QmBo/QmBo/images/Bootstrup.png" width="64" height="64" alt="Bootstrup">
+
+
 [![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=java)](https://github.com/QmBo)
 [![Spring](https://img.shields.io/badge/Spring-gray?style=for-the-badge&logo=Spring)](https://github.com/QmBo)
 [![Postgres](https://img.shields.io/badge/Postgres-gray?style=for-the-badge&logo=Postgresql)](https://github.com/QmBo)
