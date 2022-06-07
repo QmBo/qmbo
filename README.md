@@ -3,7 +3,7 @@
 ### In this account you find a demonstration projects of Java Developer.
 
 ## Languages and Tools
-
+<p>
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/java.png" width="64"  alt="Java">
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/spring.png" width="64" alt="Spring">
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/postgresql.png" width="64" alt="PostgreSQL">
@@ -14,6 +14,8 @@
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/kubernetes.png" width="64" alt="Kubernetes">
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/kafka.png" height="64" alt="Kafka">
 <img src="https://raw.githubusercontent.com/QmBo/qmbo/master/images/Bootstrap.png" width="64" alt="Bootstrup">
+</p>
+
 
 ---
 
